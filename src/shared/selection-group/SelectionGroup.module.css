@@ -1,0 +1,14 @@
+.selectionGroup {
+  display: flex;
+}
+
+.selectionButton {
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background: var(--background-color);
+}
+
+.selected {
+  background-color: var(--primary-color);
+}
