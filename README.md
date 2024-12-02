@@ -9,3 +9,4 @@ and some reusable utilities for slapping together whopping apps in minutes.
 |---------|-----------------|
 | install | `npm install`   
 | run     | `npm run start` 
+| remove git | `rm -rf .git`
